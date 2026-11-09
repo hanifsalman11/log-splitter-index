@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SplitterTonIndex — Hydraulic Log Splitter Tonnage, 2-Stage Pump GPM & Cycle Time Calculator (2026)</title>
+  <meta name="description" content="Calculate exact hydraulic log splitter cylinder tonnage, 11 to 28 GPM 2-stage pump cycle time in seconds, gas engine horsepower, and hydraulic oil tank capacity for Champion, CountyLine, Predator, and custom builds.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/log-splitter-index/">
+  <link rel="alternate" type="application/rss+xml" title="SplitterTonIndex RSS Feed" href="https://hanifsalman11.github.io/log-splitter-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-orange-500 text-zinc-950 px-2 py-0.5 rounded font-black">SPLITTER</span>TonIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=2%2BStage%2BHydraulic%2BLog%2BSplitter%2BPump%2B16%2BGPM%2B22%2BGPM%2BCylinder%2BDetent%2BValve&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-orange-500 hover:bg-orange-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Hydraulic Pumps, Cylinders & Splitter Kits on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Hydraulic Log Splitter Tonnage, Pump GPM & Cycle Time Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your log splitter model, cylinder bore, or 2-stage hydraulic pump below to calculate true splitting force in tons, extend/retract cycle speed, and engine HP requirements.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search cylinder, pump, or splitter (e.g. 16 GPM Pump, 22 GPM, 4.5x24 Cylinder, Champion 27 Ton, CountyLine 25 Ton, PTO...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-orange-500">
+      </div>
+    </div>
+
+    <div id="hydGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="22-gpm-2-stage-hydraulic-pump-45-24-cylinder-tonnage-cycle-time-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-zinc-950 px-2.5 py-0.5 rounded">27.8 Tons (4.5")</span>
+            <span class="text-xs text-zinc-400">22 GPM | 8.1s Cycle</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">22 GPM 2-Stage Hydraulic Pump + 4.5" × 24" Cylinder</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (8.1 sec @ 22.0 GPM), gas engine requirement (11.4 HP / 420cc), and 12.1-gal oil tank for 22 GPM 2-Stage Hydraulic Pump + 4.5" × 24" Cylinder.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Tonnage, GPM & Cycle Time →</span>
+        </a>
+        <a href="11-gpm-2-stage-hydraulic-pump-40-24-cylinder-tonnage-cycle-time-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-zinc-950 px-2.5 py-0.5 rounded">22.0 Tons (4.0")</span>
+            <span class="text-xs text-zinc-400">11 GPM | 12.9s Cycle</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">11 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (12.9 sec @ 11.0 GPM), gas engine requirement (5.7 HP / 212cc), and 6.1-gal oil tank for 11 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Tonnage, GPM & Cycle Time →</span>
+        </a>
+        <a href="16-gpm-2-stage-hydraulic-pump-40-24-cylinder-tonnage-cycle-time-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-orange-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-orange-500 text-zinc-950 px-2.5 py-0.5 rounded">22.0 Tons (4.0")</span>
+            <span class="text-xs text-zinc-400">16 GPM | 8.9s Cycle</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-orange-400 transition">16 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (8.9 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 16 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-orange-400">Calculate Tonnage, GPM & Cycle Time →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 SplitterTonIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('hydGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SplitterTonIndex Hydraulic Log Splitter & Cylinder Sizing Database</title>
+    <link>https://hanifsalman11.github.io/log-splitter-index/</link>
+    <description>Interactive Hydraulic Log Splitter Tonnage, 2-Stage Pump GPM & Cycle Time Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/log-splitter-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>22 GPM 2-Stage Hydraulic Pump + 4.5" × 24" Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/log-splitter-index/22-gpm-2-stage-hydraulic-pump-45-24-cylinder-tonnage-cycle-time-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/log-splitter-index/22-gpm-2-stage-hydraulic-pump-45-24-cylinder-tonnage-cycle-time-calculator.html</guid>
+      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (8.1 sec @ 22.0 GPM), gas engine requirement (11.4 HP / 420cc), and 12.1-gal oil tank for 22 GPM 2-Stage Hydraulic Pump + 4.5" × 24" Cylinder.</description>
+    </item>
+    <item>
+      <title>11 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/log-splitter-index/11-gpm-2-stage-hydraulic-pump-40-24-cylinder-tonnage-cycle-time-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/log-splitter-index/11-gpm-2-stage-hydraulic-pump-40-24-cylinder-tonnage-cycle-time-calculator.html</guid>
+      <description>Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (12.9 sec @ 11.0 GPM), gas engine requirement (5.7 HP / 212cc), and 6.1-gal oil tank for 11 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder.</description>
+    </item>
+    <item>
+      <title>16 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/log-splitter-index/16-gpm-2-stage-hydraulic-pump-40-24-cylinder-tonnage-cycle-time-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/log-splitter-index/16-gpm-2-stage-hydraulic-pump-40-24-cylinder-tonnage-cycle-time-calculator.html</guid>
+      <description>Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (8.9 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 16 GPM 2-Stage Hydraulic Pump + 4.0" × 24" Cylinder.</description>
+    </item>
+  </channel>
+</rss>
