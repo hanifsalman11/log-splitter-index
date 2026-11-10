@@ -97,5 +97,38 @@
     "gpm": 16,
     "sec": 14.1,
     "date": "2026-11-10"
+  },
+  {
+    "splitter_name": "Predator 20-Ton Rapid-Cycle Log Splitter (Dual-Action)",
+    "slug": "predator-20-ton-rapid-cycle-log-splitter-dual-action-tonnage-cycle-time-calculator",
+    "title": "Predator 20-Ton Rapid-Cycle Log Splitter (Dual-Action) Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (16.8 True Tons @ 3,500 PSI), cycle speed (6.9 sec @ 14.0 GPM), gas engine requirement (7.3 HP / 301cc), and 7.7-gal oil tank for Predator 20-Ton Rapid-Cycle Log Splitter (Dual-Action).",
+    "bore": 3.5,
+    "tons": 16.8,
+    "gpm": 14,
+    "sec": 6.9,
+    "date": "2026-11-10"
+  },
+  {
+    "splitter_name": "Troy-Bilt & Craftsman 27-Ton Log Splitter (4.5\" × 24\")",
+    "slug": "troy-bilt-craftsman-27-ton-log-splitter-45-24-tonnage-cycle-time-calculator",
+    "title": "Troy-Bilt & Craftsman 27-Ton Log Splitter (4.5\" × 24\") Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (14.1 sec @ 13.0 GPM), gas engine requirement (6.8 HP / 212cc), and 7.2-gal oil tank for Troy-Bilt & Craftsman 27-Ton Log Splitter (4.5\" × 24\").",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 13,
+    "sec": 14.1,
+    "date": "2026-11-10"
+  },
+  {
+    "splitter_name": "Ariens 22-Ton & 27-Ton Subaru/Kohler Log Splitter",
+    "slug": "ariens-22-ton-27-ton-subarukohler-log-splitter-tonnage-cycle-time-calculator",
+    "title": "Ariens 22-Ton & 27-Ton Subaru/Kohler Log Splitter Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (14.1 sec @ 13.0 GPM), gas engine requirement (6.8 HP / 212cc), and 7.2-gal oil tank for Ariens 22-Ton & 27-Ton Subaru/Kohler Log Splitter.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 13,
+    "sec": 14.1,
+    "date": "2026-11-10"
   }
 ]
