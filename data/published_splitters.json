@@ -64,5 +64,38 @@
     "gpm": 16,
     "sec": 14.1,
     "date": "2026-11-09"
+  },
+  {
+    "splitter_name": "Champion 20-Ton & 22-Ton Log Splitter (4.0\" × 22\" Cylinder)",
+    "slug": "champion-20-ton-22-ton-log-splitter-40-22-cylinder-tonnage-cycle-time-calculator",
+    "title": "Champion 20-Ton & 22-Ton Log Splitter (4.0\" × 22\" Cylinder) Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (21.4 True Tons @ 3,400 PSI), cycle speed (11.8 sec @ 11.0 GPM), gas engine requirement (5.7 HP / 212cc), and 6.1-gal oil tank for Champion 20-Ton & 22-Ton Log Splitter (4.0\" × 22\" Cylinder).",
+    "bore": 4.0,
+    "tons": 21.4,
+    "gpm": 11,
+    "sec": 11.8,
+    "date": "2026-11-10"
+  },
+  {
+    "splitter_name": "CountyLine 25-Ton Log Splitter (4.0\" × 24\" Cylinder Upgrade)",
+    "slug": "countyline-25-ton-log-splitter-40-24-cylinder-upgrade-tonnage-cycle-time-calculator",
+    "title": "CountyLine 25-Ton Log Splitter (4.0\" × 24\" Cylinder Upgrade) Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (10.1 sec @ 14.0 GPM), gas engine requirement (7.3 HP / 301cc), and 7.7-gal oil tank for CountyLine 25-Ton Log Splitter (4.0\" × 24\" Cylinder Upgrade).",
+    "bore": 4.0,
+    "tons": 22.0,
+    "gpm": 14,
+    "sec": 10.1,
+    "date": "2026-11-10"
+  },
+  {
+    "splitter_name": "CountyLine 30-Ton & 40-Ton Heavy-Duty Log Splitter",
+    "slug": "countyline-30-ton-40-ton-heavy-duty-log-splitter-tonnage-cycle-time-calculator",
+    "title": "CountyLine 30-Ton & 40-Ton Heavy-Duty Log Splitter Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (34.4 True Tons @ 3,500 PSI), cycle speed (14.1 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for CountyLine 30-Ton & 40-Ton Heavy-Duty Log Splitter.",
+    "bore": 5.0,
+    "tons": 34.4,
+    "gpm": 16,
+    "sec": 14.1,
+    "date": "2026-11-10"
   }
 ]
