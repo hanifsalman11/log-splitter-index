@@ -130,5 +130,38 @@
     "gpm": 13,
     "sec": 14.1,
     "date": "2026-11-10"
+  },
+  {
+    "splitter_name": "Yardmax 25-Ton, 28-Ton & 35-Ton Full-Beam Log Splitter",
+    "slug": "yardmax-25-ton-28-ton-35-ton-full-beam-log-splitter-tonnage-cycle-time-calculator",
+    "title": "Yardmax 25-Ton, 28-Ton & 35-Ton Full-Beam Log Splitter Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.9 sec @ 15.0 GPM), gas engine requirement (7.8 HP / 301cc), and 8.2-gal oil tank for Yardmax 25-Ton, 28-Ton & 35-Ton Full-Beam Log Splitter.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 15,
+    "sec": 11.9,
+    "date": "2026-11-11"
+  },
+  {
+    "splitter_name": "Black Diamond 25-Ton, 27-Ton & 32-Ton Log Splitter",
+    "slug": "black-diamond-25-ton-27-ton-32-ton-log-splitter-tonnage-cycle-time-calculator",
+    "title": "Black Diamond 25-Ton, 27-Ton & 32-Ton Log Splitter Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (13.1 sec @ 14.0 GPM), gas engine requirement (7.3 HP / 301cc), and 7.7-gal oil tank for Black Diamond 25-Ton, 27-Ton & 32-Ton Log Splitter.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 14,
+    "sec": 13.1,
+    "date": "2026-11-11"
+  },
+  {
+    "splitter_name": "Boss Industrial 7-Ton & 10-Ton Electric Log Splitter",
+    "slug": "boss-industrial-7-ton-10-ton-electric-log-splitter-tonnage-cycle-time-calculator",
+    "title": "Boss Industrial 7-Ton & 10-Ton Electric Log Splitter Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (9.9 True Tons @ 2,800 PSI), cycle speed (9.8 sec @ 6.5 GPM), gas engine requirement (5.5 HP / 212cc), and 4.0-gal oil tank for Boss Industrial 7-Ton & 10-Ton Electric Log Splitter.",
+    "bore": 3.0,
+    "tons": 9.9,
+    "gpm": 6,
+    "sec": 9.8,
+    "date": "2026-11-11"
   }
 ]
