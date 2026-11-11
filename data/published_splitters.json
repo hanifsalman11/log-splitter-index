@@ -163,5 +163,38 @@
     "gpm": 6,
     "sec": 9.8,
     "date": "2026-11-11"
+  },
+  {
+    "splitter_name": "3-Point Tractor PTO Log Splitter (12 GPM Tractor Remote)",
+    "slug": "3-point-tractor-pto-log-splitter-12-gpm-tractor-remote-tonnage-cycle-time-calculator",
+    "title": "3-Point Tractor PTO Log Splitter (12 GPM Tractor Remote) Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (15.7 True Tons @ 2,500 PSI), cycle speed (11.9 sec @ 12.0 GPM), gas engine requirement (6.2 HP / 212cc), and 6.6-gal oil tank for 3-Point Tractor PTO Log Splitter (12 GPM Tractor Remote).",
+    "bore": 4.0,
+    "tons": 15.7,
+    "gpm": 12,
+    "sec": 11.9,
+    "date": "2026-11-11"
+  },
+  {
+    "splitter_name": "3-Point Tractor PTO Pump (21 GPM @ 540 RPM) + 4.5\" Cylinder",
+    "slug": "3-point-tractor-pto-pump-21-gpm-540-rpm-45-cylinder-tonnage-cycle-time-calculator",
+    "title": "3-Point Tractor PTO Pump (21 GPM @ 540 RPM) + 4.5\" Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (23.9 True Tons @ 3,000 PSI), cycle speed (8.5 sec @ 21.0 GPM), gas engine requirement (10.9 HP / 420cc), and 11.6-gal oil tank for 3-Point Tractor PTO Pump (21 GPM @ 540 RPM) + 4.5\" Cylinder.",
+    "bore": 4.5,
+    "tons": 23.9,
+    "gpm": 21,
+    "sec": 8.5,
+    "date": "2026-11-11"
+  },
+  {
+    "splitter_name": "Skid Steer Aux Hydraulic Log Splitter (18 GPM @ 3,000 PSI)",
+    "slug": "skid-steer-aux-hydraulic-log-splitter-18-gpm-3000-psi-tonnage-cycle-time-calculator",
+    "title": "Skid Steer Aux Hydraulic Log Splitter (18 GPM @ 3,000 PSI) Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (23.9 True Tons @ 3,000 PSI), cycle speed (9.9 sec @ 18.0 GPM), gas engine requirement (9.4 HP / 420cc), and 9.9-gal oil tank for Skid Steer Aux Hydraulic Log Splitter (18 GPM @ 3,000 PSI).",
+    "bore": 4.5,
+    "tons": 23.9,
+    "gpm": 18,
+    "sec": 9.9,
+    "date": "2026-11-11"
   }
 ]
