@@ -229,5 +229,38 @@
     "gpm": 22,
     "sec": 10.0,
     "date": "2026-11-12"
+  },
+  {
+    "splitter_name": "5.0-Inch Bore × 30-Inch Stroke Commercial Firewood Processor",
+    "slug": "50-inch-bore-30-inch-stroke-commercial-firewood-processor-tonnage-cycle-time-calculator",
+    "title": "5.0-Inch Bore × 30-Inch Stroke Commercial Firewood Processor Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (34.4 True Tons @ 3,500 PSI), cycle speed (9.6 sec @ 28.0 GPM), gas engine requirement (14.6 HP / 670cc), and 15.4-gal oil tank for 5.0-Inch Bore × 30-Inch Stroke Commercial Firewood Processor.",
+    "bore": 5.0,
+    "tons": 34.4,
+    "gpm": 28,
+    "sec": 9.6,
+    "date": "2026-11-12"
+  },
+  {
+    "splitter_name": "3.5-Inch Bore × 24-Inch Stroke Fast-Cycle Splitter Cylinder",
+    "slug": "35-inch-bore-24-inch-stroke-fast-cycle-splitter-cylinder-tonnage-cycle-time-calculator",
+    "title": "3.5-Inch Bore × 24-Inch Stroke Fast-Cycle Splitter Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (16.8 True Tons @ 3,500 PSI), cycle speed (6.6 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 3.5-Inch Bore × 24-Inch Stroke Fast-Cycle Splitter Cylinder.",
+    "bore": 3.5,
+    "tons": 16.8,
+    "gpm": 16,
+    "sec": 6.6,
+    "date": "2026-11-12"
+  },
+  {
+    "splitter_name": "Prince LS-3000-1 & Magister 25 GPM Auto-Detent Splitter Valve",
+    "slug": "prince-ls-3000-1-magister-25-gpm-auto-detent-splitter-valve-tonnage-cycle-time-calculator",
+    "title": "Prince LS-3000-1 & Magister 25 GPM Auto-Detent Splitter Valve Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Prince LS-3000-1 & Magister 25 GPM Auto-Detent Splitter Valve.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-12"
   }
 ]
