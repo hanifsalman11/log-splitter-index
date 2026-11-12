@@ -196,5 +196,38 @@
     "gpm": 18,
     "sec": 9.9,
     "date": "2026-11-11"
+  },
+  {
+    "splitter_name": "4.0-Inch Bore × 24-Inch Stroke Double-Acting Cylinder",
+    "slug": "40-inch-bore-24-inch-stroke-double-acting-cylinder-tonnage-cycle-time-calculator",
+    "title": "4.0-Inch Bore × 24-Inch Stroke Double-Acting Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (8.9 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 4.0-Inch Bore × 24-Inch Stroke Double-Acting Cylinder.",
+    "bore": 4.0,
+    "tons": 22.0,
+    "gpm": 16,
+    "sec": 8.9,
+    "date": "2026-11-12"
+  },
+  {
+    "splitter_name": "4.5-Inch Bore × 24-Inch Stroke Double-Acting Cylinder",
+    "slug": "45-inch-bore-24-inch-stroke-double-acting-cylinder-tonnage-cycle-time-calculator",
+    "title": "4.5-Inch Bore × 24-Inch Stroke Double-Acting Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 4.5-Inch Bore × 24-Inch Stroke Double-Acting Cylinder.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-12"
+  },
+  {
+    "splitter_name": "5.0-Inch Bore × 24-Inch Stroke Heavy-Duty Cylinder",
+    "slug": "50-inch-bore-24-inch-stroke-heavy-duty-cylinder-tonnage-cycle-time-calculator",
+    "title": "5.0-Inch Bore × 24-Inch Stroke Heavy-Duty Cylinder Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (34.4 True Tons @ 3,500 PSI), cycle speed (10.0 sec @ 22.0 GPM), gas engine requirement (11.4 HP / 420cc), and 12.1-gal oil tank for 5.0-Inch Bore × 24-Inch Stroke Heavy-Duty Cylinder.",
+    "bore": 5.0,
+    "tons": 34.4,
+    "gpm": 22,
+    "sec": 10.0,
+    "date": "2026-11-12"
   }
 ]
