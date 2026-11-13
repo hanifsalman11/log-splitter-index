@@ -295,5 +295,38 @@
     "gpm": 11,
     "sec": 12.9,
     "date": "2026-11-13"
+  },
+  {
+    "splitter_name": "Predator 301cc (8 HP) / Honda GX270 + 16 GPM 2-Stage Pump",
+    "slug": "predator-301cc-8-hp-honda-gx270-16-gpm-2-stage-pump-tonnage-cycle-time-calculator",
+    "title": "Predator 301cc (8 HP) / Honda GX270 + 16 GPM 2-Stage Pump Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.4 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Predator 301cc (8 HP) / Honda GX270 + 16 GPM 2-Stage Pump.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.4,
+    "date": "2026-11-13"
+  },
+  {
+    "splitter_name": "Predator 420cc (13 HP) / Honda GX390 + 22 GPM 2-Stage Pump",
+    "slug": "predator-420cc-13-hp-honda-gx390-22-gpm-2-stage-pump-tonnage-cycle-time-calculator",
+    "title": "Predator 420cc (13 HP) / Honda GX390 + 22 GPM 2-Stage Pump Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (34.4 True Tons @ 3,500 PSI), cycle speed (10.3 sec @ 22.0 GPM), gas engine requirement (11.4 HP / 420cc), and 12.1-gal oil tank for Predator 420cc (13 HP) / Honda GX390 + 22 GPM 2-Stage Pump.",
+    "bore": 5.0,
+    "tons": 34.4,
+    "gpm": 22,
+    "sec": 10.3,
+    "date": "2026-11-13"
+  },
+  {
+    "splitter_name": "AW-32 vs AW-46 Hydraulic Fluid & Reservoir Tank Sizing",
+    "slug": "aw-32-vs-aw-46-hydraulic-fluid-reservoir-tank-sizing-tonnage-cycle-time-calculator",
+    "title": "AW-32 vs AW-46 Hydraulic Fluid & Reservoir Tank Sizing Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for AW-32 vs AW-46 Hydraulic Fluid & Reservoir Tank Sizing.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-13"
   }
 ]
