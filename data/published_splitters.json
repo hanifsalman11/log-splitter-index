@@ -394,5 +394,38 @@
     "gpm": 16,
     "sec": 11.2,
     "date": "2026-11-14"
+  },
+  {
+    "splitter_name": "Hydraulic Cylinder Force Calc",
+    "slug": "hydraulic-cylinder-force-calc-tonnage-cycle-time-calculator",
+    "title": "Hydraulic Cylinder Force Calc Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Hydraulic Cylinder Force Calc.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-14"
+  },
+  {
+    "splitter_name": "Hydraulic Ram Force",
+    "slug": "hydraulic-ram-force-tonnage-cycle-time-calculator",
+    "title": "Hydraulic Ram Force Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Hydraulic Ram Force.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-14"
+  },
+  {
+    "splitter_name": "Hydraulic Ram Force  Metric",
+    "slug": "hydraulic-ram-force-metric-tonnage-cycle-time-calculator",
+    "title": "Hydraulic Ram Force  Metric Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Hydraulic Ram Force  Metric.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-14"
   }
 ]
