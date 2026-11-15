@@ -460,5 +460,38 @@
     "gpm": 16,
     "sec": 11.2,
     "date": "2026-11-15"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Parts List",
+    "slug": "champion-log-splitter-parts-list-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Parts List Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Parts List.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-15"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Parts Canada",
+    "slug": "champion-log-splitter-parts-canada-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Parts Canada Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Parts Canada.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-15"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Parts Near Me",
+    "slug": "champion-log-splitter-parts-near-me-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Parts Near Me Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Parts Near Me.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-15"
   }
 ]
