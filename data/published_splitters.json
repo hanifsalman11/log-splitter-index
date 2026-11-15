@@ -427,5 +427,38 @@
     "gpm": 16,
     "sec": 11.2,
     "date": "2026-11-14"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Pump",
+    "slug": "champion-log-splitter-pump-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Pump Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Pump.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-15"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Parts",
+    "slug": "champion-log-splitter-parts-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Parts Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Parts.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-15"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Parts Diagram",
+    "slug": "champion-log-splitter-parts-diagram-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Parts Diagram Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Parts Diagram.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-15"
   }
 ]
