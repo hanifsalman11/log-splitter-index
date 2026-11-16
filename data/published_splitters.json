@@ -526,5 +526,38 @@
     "gpm": 16,
     "sec": 11.2,
     "date": "2026-11-16"
+  },
+  {
+    "splitter_name": "Champion Log Splitter Hydraulic Pump",
+    "slug": "champion-log-splitter-hydraulic-pump-tonnage-cycle-time-calculator",
+    "title": "Champion Log Splitter Hydraulic Pump Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Hydraulic Pump.",
+    "bore": 4.5,
+    "tons": 27.8,
+    "gpm": 16,
+    "sec": 11.2,
+    "date": "2026-11-16"
+  },
+  {
+    "splitter_name": "3.5\" × 24\" Cylinder on 11 GPM Pump @ 3,000 PSI",
+    "slug": "35-24-cylinder-on-11-gpm-pump-3000-psi-tonnage-cycle-time-calculator",
+    "title": "3.5\" × 24\" Cylinder on 11 GPM Pump @ 3,000 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (14.4 True Tons @ 3,000 PSI), cycle speed (9.6 sec @ 11.0 GPM), gas engine requirement (5.7 HP / 212cc), and 6.1-gal oil tank for 3.5\" × 24\" Cylinder on 11 GPM Pump @ 3,000 PSI.",
+    "bore": 3.5,
+    "tons": 14.4,
+    "gpm": 11,
+    "sec": 9.6,
+    "date": "2026-11-16"
+  },
+  {
+    "splitter_name": "3.5\" × 24\" Cylinder on 13 GPM Pump @ 3,500 PSI",
+    "slug": "35-24-cylinder-on-13-gpm-pump-3500-psi-tonnage-cycle-time-calculator",
+    "title": "3.5\" × 24\" Cylinder on 13 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (16.8 True Tons @ 3,500 PSI), cycle speed (8.1 sec @ 13.0 GPM), gas engine requirement (6.8 HP / 212cc), and 7.2-gal oil tank for 3.5\" × 24\" Cylinder on 13 GPM Pump @ 3,500 PSI.",
+    "bore": 3.5,
+    "tons": 16.8,
+    "gpm": 13,
+    "sec": 8.1,
+    "date": "2026-11-16"
   }
 ]
