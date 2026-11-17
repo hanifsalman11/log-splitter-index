@@ -592,5 +592,38 @@
     "gpm": 28,
     "sec": 3.7,
     "date": "2026-11-17"
+  },
+  {
+    "splitter_name": "4.0\" × 24\" Cylinder on 11 GPM Pump @ 3,000 PSI",
+    "slug": "40-24-cylinder-on-11-gpm-pump-3000-psi-tonnage-cycle-time-calculator",
+    "title": "4.0\" × 24\" Cylinder on 11 GPM Pump @ 3,000 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (18.9 True Tons @ 3,000 PSI), cycle speed (12.9 sec @ 11.0 GPM), gas engine requirement (5.7 HP / 212cc), and 6.1-gal oil tank for 4.0\" × 24\" Cylinder on 11 GPM Pump @ 3,000 PSI.",
+    "bore": 4.0,
+    "tons": 18.9,
+    "gpm": 11,
+    "sec": 12.9,
+    "date": "2026-11-17"
+  },
+  {
+    "splitter_name": "4.0\" × 24\" Cylinder on 13 GPM Pump @ 3,500 PSI",
+    "slug": "40-24-cylinder-on-13-gpm-pump-3500-psi-tonnage-cycle-time-calculator",
+    "title": "4.0\" × 24\" Cylinder on 13 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (10.9 sec @ 13.0 GPM), gas engine requirement (6.8 HP / 212cc), and 7.2-gal oil tank for 4.0\" × 24\" Cylinder on 13 GPM Pump @ 3,500 PSI.",
+    "bore": 4.0,
+    "tons": 22.0,
+    "gpm": 13,
+    "sec": 10.9,
+    "date": "2026-11-17"
+  },
+  {
+    "splitter_name": "4.0\" × 24\" Cylinder on 16 GPM Pump @ 3,500 PSI",
+    "slug": "40-24-cylinder-on-16-gpm-pump-3500-psi-tonnage-cycle-time-calculator",
+    "title": "4.0\" × 24\" Cylinder on 16 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)",
+    "description": "Calculate exact hydraulic splitting force (22.0 True Tons @ 3,500 PSI), cycle speed (8.9 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 4.0\" × 24\" Cylinder on 16 GPM Pump @ 3,500 PSI.",
+    "bore": 4.0,
+    "tons": 22.0,
+    "gpm": 16,
+    "sec": 8.9,
+    "date": "2026-11-17"
   }
 ]
