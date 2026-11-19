@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/log-splitter-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>4.5" × 30" Cylinder on 28 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-28-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-28-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</guid>
+      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (8.0 sec @ 28.0 GPM), gas engine requirement (14.6 HP / 670cc), and 15.4-gal oil tank for 4.5" × 30" Cylinder on 28 GPM Pump @ 3,500 PSI.</description>
+    </item>
+    <item>
+      <title>4.5" × 30" Cylinder on 22 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-22-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-22-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</guid>
+      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (10.1 sec @ 22.0 GPM), gas engine requirement (11.4 HP / 420cc), and 12.1-gal oil tank for 4.5" × 30" Cylinder on 22 GPM Pump @ 3,500 PSI.</description>
+    </item>
+    <item>
+      <title>4.5" × 30" Cylinder on 16 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-16-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-16-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</guid>
+      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (13.9 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for 4.5" × 30" Cylinder on 16 GPM Pump @ 3,500 PSI.</description>
+    </item>
+    <item>
       <title>4.5" × 30" Cylinder on 13 GPM Pump @ 3,500 PSI Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-13-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</link>
       <guid>https://hanifsalman11.github.io/log-splitter-index/45-30-cylinder-on-13-gpm-pump-3500-psi-tonnage-cycle-time-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/log-splitter-index/champion-log-splitter-pump-tonnage-cycle-time-calculator.html</link>
       <guid>https://hanifsalman11.github.io/log-splitter-index/champion-log-splitter-pump-tonnage-cycle-time-calculator.html</guid>
       <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Champion Log Splitter Pump.</description>
-    </item>
-    <item>
-      <title>Hydraulic Ram Force  Metric Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/log-splitter-index/hydraulic-ram-force-metric-tonnage-cycle-time-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/log-splitter-index/hydraulic-ram-force-metric-tonnage-cycle-time-calculator.html</guid>
-      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Hydraulic Ram Force  Metric.</description>
-    </item>
-    <item>
-      <title>Hydraulic Ram Force Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/log-splitter-index/hydraulic-ram-force-tonnage-cycle-time-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/log-splitter-index/hydraulic-ram-force-tonnage-cycle-time-calculator.html</guid>
-      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Hydraulic Ram Force.</description>
-    </item>
-    <item>
-      <title>Hydraulic Cylinder Force Calc Tonnage, Cycle Time & Engine HP Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/log-splitter-index/hydraulic-cylinder-force-calc-tonnage-cycle-time-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/log-splitter-index/hydraulic-cylinder-force-calc-tonnage-cycle-time-calculator.html</guid>
-      <description>Calculate exact hydraulic splitting force (27.8 True Tons @ 3,500 PSI), cycle speed (11.2 sec @ 16.0 GPM), gas engine requirement (8.3 HP / 301cc), and 8.8-gal oil tank for Hydraulic Cylinder Force Calc.</description>
     </item>
   </channel>
 </rss>
